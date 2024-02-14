@@ -1,0 +1,24 @@
+{
+  "frases": [
+      { "id": 1, "texto": "A sorte acompanha os audazes." },
+      { "id": 2, "texto": "Acredite em milagres, mas não dependa deles." },
+      { "id": 3, "texto": "Você é capaz de grandes feitos." },
+      { "id": 4, "texto": "Grandes realizações exigem tempo e paciência." },
+      { "id": 5, "texto": "Seja ousado e corajoso." },
+      { "id": 6, "texto": "A persistência é o caminho para o sucesso." },
+      { "id": 7, "texto": "Nenhum obstáculo é grande demais para quem tem determinação." },
+      { "id": 8, "texto": "O futuro pertence àqueles que acreditam na beleza dos seus sonhos." },
+      { "id": 9, "texto": "A felicidade está nas pequenas coisas da vida." },
+      { "id": 10, "texto": "O amor é a força mais poderosa do universo." },
+      { "id": 11, "texto": "A gratidão transforma o que temos em suficiente." },
+      { "id": 12, "texto": "A sabedoria vem da experiência e da reflexão." },
+      { "id": 13, "texto": "A gentileza é a essência da verdadeira grandeza." },
+      { "id": 14, "texto": "O sucesso é a soma de pequenos esforços repetidos dia após dia." },
+      { "id": 15, "texto": "Cada dia é uma nova oportunidade para ser melhor." },
+      { "id": 16, "texto": "A mente é tudo. Aquilo que você pensa, você se torna." },
+      { "id": 17, "texto": "A vida é uma jornada; faça dela uma aventura." },
+      { "id": 18, "texto": "O segredo da felicidade está em fazer o que se ama." },
+      { "id": 19, "texto": "A mudança é a única constante na vida." },
+      { "id": 20, "texto": "A felicidade não é uma meta, é uma jornada." }
+  ]
+}
