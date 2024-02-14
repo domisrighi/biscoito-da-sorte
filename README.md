@@ -4,7 +4,7 @@
 
 Programa desenvolvido referente ao desafio 2, onde você pode clicar em "Abrir sorte" e em seguida ele exibirá uma frase com sua sorte diária. Se quiser tirar outra é só clicar em "Tirar outra sorte" e abrir novamente.
 
-### Requisitos:
+### Requisitos
 - Criar e exportar módulos
 - Realizar chamadas HTTP 
 - Processamento assíncrono
